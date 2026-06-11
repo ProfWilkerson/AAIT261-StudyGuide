@@ -1,7 +1,7 @@
 - [Home](/)
 
 - **Module 1**
-  - [Module1 Study Guide](/Module1_StudyGuide.md)
+  - [Study Guide](/Module1_StudyGuide.md)
 
 - **Module 2**
   - *(Coming soon)*
