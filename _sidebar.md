@@ -4,22 +4,22 @@
   - [Study Guide](/Module1_StudyGuide.md)
 
 - **Module 2**
-  - *(Coming soon)*
+  - [Study Guide](/2.md)
 
 - **Module 3**
-  - *(Coming soon)*
+  - [Study Guide](/Module3_StudyGuide.md)
 
 - **Module 4**
-  - *(Coming soon)*
+  - [Study Guide](/Module4_StudyGuide.md)
 
 - **Module 5**
-  - *(Coming soon)*
+  - [Study Guide](/Module5_StudyGuide.md)
 
 - **Module 6**
-  - *(Coming soon)*
+  - [Study Guide](/Module6_StudyGuide.md)
 
 - **Module 7**
-  - *(Coming soon)*
+  - [Study Guide](/Module7_StudyGuide.md)
 
 - **Module 8**
-  - *(Coming soon)*
+  - [Study Guide](/Module8_StudyGuide.md)
