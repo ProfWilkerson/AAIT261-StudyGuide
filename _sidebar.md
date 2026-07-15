@@ -4,7 +4,7 @@
   - [Study Guide](/Module1_StudyGuide.md)
 
 - **Module 2**
-  - [Study Guide](/2.md)
+  - [Study Guide](/Module2_StudyGuide.md)
 
 - **Module 3**
   - [Study Guide](/Module3_StudyGuide.md)
